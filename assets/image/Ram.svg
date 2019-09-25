@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22.875" height="21.637" viewBox="0 0 22.875 21.637">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0066bf"/>
+      <stop offset="1" stop-color="#692ad8"/>
+    </linearGradient>
+  </defs>
+  <path id="Ram" d="M14.883,9.38h.235V1.732H12.8V0H5.2l.03.3a.609.609,0,0,1-.605.607L4.34.894v19.1l.249-.013a.116.116,0,0,0,.03,0,.607.607,0,0,1,.607.606v.236H12.8V19.61h2.321V11.437h-.234a1.028,1.028,0,0,1,0-2.056ZM10.817,19.2H6.046V17.092h4.771V19.2Zm0-2.8H6.046V14.293h4.771V16.4Zm0-2.935H6.046V11.357h4.771v2.109Zm0-3.892H6.046V7.466h4.771V9.574Zm0-2.8H6.046V4.667h4.771V6.776Zm0-2.935H6.046V1.732h4.771V3.84Zm3.831,8.047V19.14H12.8V17.768h1.365V17.3H12.8v-.52h1.365v-.47H12.8v-.5h1.365v-.47H12.8v-.451h1.365v-.47H12.8v-.52h1.365v-.47H12.8v-.5h1.365v-.47H12.8V8.6h1.365v-.47H12.8v-.52h1.365v-.47H12.8v-.5h1.365V6.17H12.8V5.718h1.365v-.47H12.8V4.729h1.365v-.47H12.8v-.5h1.365v-.47H12.8V2.2h1.851V8.928a1.5,1.5,0,0,0,0,2.96Z" transform="translate(13.157 -3.325) rotate(50)" fill="url(#linear-gradient)"/>
+</svg>
