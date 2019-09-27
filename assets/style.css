@@ -1,16 +1,29 @@
 body
 {
     font-family: 'Open Sans', sans-serif;
-    padding: 25px;
+    padding: 0;
+    margin: 0;
    
 }
 h1,h2,h3,h4,h5,h6,p,span{
     margin:0px;
 }
+.container{
+    width: 80%;
+    margin:auto;
+    overflow: hidden;
+}
+.row{
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
 .mt-20{
 margin-top: 20px;
 }
-
 .product_title{
     font-weight: 600;
     margin: 10px 0px 10px 0px;
@@ -61,3 +74,25 @@ ul{
     border-radius: 50%;
     display: inline-block;
 }
+
+
+
+
+
+/* RESPONSIVE */
+
+/* @media (min-width: 768px) {
+    .container {
+      width: 750px;
+    }
+  }
+  @media (min-width: 992px) {
+    .container {
+      width: 970px;
+    }
+  }
+  @media (min-width: 1200px) {
+    .container {
+      width: 1170px;
+    }
+  } */
