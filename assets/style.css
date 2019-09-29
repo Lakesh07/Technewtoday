@@ -98,6 +98,11 @@ ul{
     border-radius: 50%;
     display: inline-block;
 }
+.feature_img{
+    width: 15px;
+    height: 15px;
+    margin-right: 10px;
+}
 .button{
     color: white;
     background: #004ae6;
@@ -107,16 +112,19 @@ ul{
     z-index: 100;
 }
 .button-blue-mid{
-    margin-top: -20px;
+    margin-top: -15px;
+    position: absolute;
+    left: 40%;
 }
 
 .button-mid{
     text-align: center;
+    position: relative;
 }
 .hr-blue{
     height: 1px;
     color:#123455;
-    background-color:#123455;
+    background-color:#004ae6;
     border: none;
     position: relative;
     top: -68%;
