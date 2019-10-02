@@ -242,6 +242,14 @@ ul{
     font-weight: bold;
     text-transform: uppercase;
   }
+  table .res-td::before{
+    display: none;
+   
+  }
+  table .res-td{
+    text-align: left;
+    border: none;
+  }
   
   table td:last-child {
     border-bottom: 0;
