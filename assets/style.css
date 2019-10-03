@@ -107,7 +107,7 @@ ul{
 .button{
     color: white;
     background: #004ae6;
-    padding: 6px 15px;
+    padding: 6px 8px;
     border: 2px solid #5d8ef7;
     border-radius: 5px;
     z-index: 100;
@@ -150,6 +150,11 @@ ul{
     padding: 0;
     width: 100%;
     table-layout: fixed;
+  }
+  .table-responsive{
+    display: block;
+width: 100%;
+overflow-x: auto;
   }
   
   table caption {
@@ -195,6 +200,9 @@ ul{
     font-size: .85em;
     letter-spacing: .1em;
     text-transform: uppercase;
+  }
+  .btn-lg{
+    font-size: 16px;
   }
 
  
@@ -293,11 +301,17 @@ ul{
   .product_subtitle{
     margin:0px;
   }
+  .button{
+    padding: 4px 8px;
+    font-size: 12px;
+  }
 }
 
 /* // Small devices (landscape phones, less than 768px) */
 @media (max-width: 767px) {
-
+.col-action{
+  width:100px;
+}
 }
 
 /* // Medium devices (tablets, less than 992px) */
