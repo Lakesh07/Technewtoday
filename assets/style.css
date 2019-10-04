@@ -309,6 +309,13 @@ overflow-x: auto;
     padding: 4px 8px;
     font-size: 12px;
   }
+  .btn-alink{
+    width: 100%;
+    display: inline-flex;
+  }
+  .button-link{
+    margin-left: 10px;
+  }
 }
 
 /* // Small devices (landscape phones, less than 768px) */
@@ -319,6 +326,7 @@ overflow-x: auto;
 .product_effects--left,.product_effects-right{
   width: 100%;
 }
+
 }
 
 /* // Medium devices (tablets, less than 992px) */
